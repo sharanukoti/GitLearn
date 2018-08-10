@@ -1,3 +1,4 @@
-My first git file
+My first git file.
 Editted the file
 Testing for the Branch concept.
+Created another branch.
